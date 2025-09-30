@@ -1,3 +1,4 @@
+
 dlkfhalskdjflajsdfa
 sdfasd
 fasjdlkfjasldkjfa
@@ -8,3 +9,4 @@ fasfd
 as
 dfasdfasdf:w
 fdfd
+this is a git conflict
